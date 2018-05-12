@@ -1,0 +1,36 @@
+_repo: Noteworthy-Records-of-Bats-From-Nicaragua-with-a-Checklist-of-the-Chiropteran-Fauna-of-the-Co__32350
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Turner, Ronald W.
+    gutenberg_agent_id: '35801'
+    url: http://www.gutenberg.org/2009/agents/35801
+  - agent_name: Jones, J. Knox
+    birthdate: 1929
+    deathdate: 1992
+    gutenberg_agent_id: '33991'
+    url: http://www.gutenberg.org/2009/agents/33991
+  - agent_name: Smith, James Dale
+    gutenberg_agent_id: '35800'
+    url: http://www.gutenberg.org/2009/agents/35800
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Bats -- Nicaragua'
+title: Noteworthy Records of Bats From Nicaragua, with a Checklist of the Chiropteran
+  Fauna of the Country
+url: http://www.gutenberg.org/ebooks/32350
